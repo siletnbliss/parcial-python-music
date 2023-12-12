@@ -1,6 +1,10 @@
-# HOW TO RUN PROJECT:
+# Python music
+
+Python project to practice FastAPI by building an API that retrieves data from a sqlite database with pydantic and SqlAlchemy.
+
+## HOW TO RUN PROJECT:
 
 - Setup and activate virtual environment
-- install dependencies: pip install -r requirements.txt
-- Run: uvicorn main:app 
-- Docs: /music-store/api/v1/docs
+- Install dependencies: pip install -r requirements.txt
+- Run: uvicorn main:app
+- Docs: /docs
